@@ -48,7 +48,7 @@ body {
 form {
     display: flex;
     flex-wrap: wrap;
-    margin: 1rem;
+    margin: 2rem;
 }
 
 .form-50 {
@@ -72,7 +72,8 @@ form {
     border: none;
     padding-left: 1rem;
     font-family: 'Be Vietnam Pro', sans-serif;
-    color: #CDD5E0;
+    color: #111729;
+    font-weight: bold;
 }
 
 .form-50 select{
